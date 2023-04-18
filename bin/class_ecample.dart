@@ -4,6 +4,8 @@ class MyClass{
   double mark=12.5;
   static String course="flutter";
 
+
+
 }
 void main(){
   // classname objname=classname();

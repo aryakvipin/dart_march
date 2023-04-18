@@ -4,8 +4,8 @@ void main() {
   list[0]=5;
   list[1]=3;
    print(list);
-
-
+  var set1Number = numberlist.toSet();
+  print("$set1Number");
  // List<int> list = [12, 2, 8, 15];
   var list2=List.empty(growable:true);
   list2.add(40);
